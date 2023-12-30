@@ -25,7 +25,7 @@
   </ol>
 
   <h2>Model Training</h2>
-  <p>The initial plan involved training a transformer BERT model for more accurate resume generation but a custom model can be integrated with a website inly when there is intermediary backend layer of flask which i thought was time consuming. A sample model training script (<code>transformer.py</code>) is provided in the repository. For now i have used openai api key</p>
+  <p>The initial plan involved training a transformer BERT model for more accurate resume generation but a custom model can be integrated with a website only when there is intermediary backend layer of flask which i thought was time consuming. A sample model training script (<code>transformer.py</code>) is provided in the repository. For now i have used openai api key.</p>
 
   <h2>Demo</h2>
   <p><a href="https://drive.google.com/file/d/1J_4DFS9vS0QtME7GAHe7kxsD_KzP1Uuw/view?usp=sharing">Demo Video Link</a></p>
