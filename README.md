@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Resume Builder (JobID: JB50346639)</title>
+  
 </head>
 <body>
 
